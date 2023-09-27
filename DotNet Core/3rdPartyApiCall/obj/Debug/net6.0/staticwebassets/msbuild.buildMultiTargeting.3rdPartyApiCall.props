@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\3rdPartyApiCall.props" />
+</Project>

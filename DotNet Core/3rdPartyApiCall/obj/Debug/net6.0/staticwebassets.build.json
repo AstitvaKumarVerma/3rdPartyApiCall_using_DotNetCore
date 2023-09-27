@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZnVE5Xhz68AYjzKBWrGAjxiGpjKxpuHrl+Qq98O/CyM=",
+  "Source": "3rdPartyApiCall",
+  "BasePath": "_content/3rdPartyApiCall",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
